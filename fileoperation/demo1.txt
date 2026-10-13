@@ -1,0 +1,4 @@
+hello i am lakshit varma
+i am now write my second line
+This file is use to check vowels in entire file
+raunak is a good guy
