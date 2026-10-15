@@ -1,5 +1,5 @@
 n = int(input("enter the number : "))
-newN = n
+new = n
 total = 0
 fresh = 0
 for i in range(1,n+1):
@@ -8,7 +8,8 @@ for i in range(1,n+1):
                 fresh = total 
 
 print(fresh)
-if fresh == newN:
+
+if fresh == new:
         print("its a prefect number")
 else:
         print("no its not a perfect number ")
